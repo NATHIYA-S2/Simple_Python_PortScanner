@@ -70,11 +70,8 @@ Example Output
 
 If open ports are found:
 
-```
-Open ports: 22, 80, 443
-```
+`Open ports: 22, 80, 443`
 
 If no open ports are found:
 
-```
-No open ports
+`No open ports`
