@@ -19,7 +19,7 @@ Installation
 1. Clone the Repository:
 
    sh
-   git clone https://github.com/yourusername/port-scanner.git
+   git clone https://github.com/NATHIYA-S2/Simple_Python_PortScanner.git
    
 
 3. Navigate to the Directory:
